@@ -1,0 +1,33 @@
+{
+  "name": "AdventureWorks_Official_Theme",
+  "dataColors": [
+    "#2A9342",
+    "#E8811A",
+    "#231F20",
+    "#59A869",
+    "#F29D38",
+    "#666666",
+    "#8EC99B",
+    "#F7C17B"
+  ],
+  "background": "#F4F6F8",
+  "foreground": "#231F20",
+  "tableAccent": "#2A9342",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspacePane": [
+          {
+            "backgroundColor": { "solid": { "color": "#F4F6F8" } }
+          }
+        ],
+        "filterCard": [
+          {
+            "textBoxSize": 10,
+            "appliedColor": { "solid": { "color": "#2A9342" } }
+          }
+        ]
+      }
+    }
+  }
+}
